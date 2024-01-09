@@ -1,0 +1,4 @@
+Environment,Task,SolutionConcept,Method,Epoch,Iteration,Risk,ExpectedReward,BFViolated,RegretViolated
+FairGamble,MDCE,DBCE,DBCE,0,0,0.0,0.0,5.934972409527006e-08,0.0
+FairGamble,MDCE,DBCE,DBCE,0,1,0.0,0.0,5.934972409527006e-08,0.0
+FairGamble,MDCE,DBCE,DBCE,0,2,0.0,0.0,5.934972409527006e-08,0.0
